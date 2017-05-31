@@ -62,6 +62,5 @@ An additional step to sort the final output will bring down the running time of 
 Contact Information:
 --------------------
 
-Name: Sharath Chandra Bagur Suryanarayanaprasad
-Student ID: 800974802
-EmailID: sbagursu@uncc.edu
+Name: Sharath Chandra BS
+Email: sharath8saha@gmail.com
